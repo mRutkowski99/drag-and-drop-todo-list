@@ -26,6 +26,7 @@ Users should be able to:
 - Clear all completed todos
 - Toggle light and dark mode
 - Drag and drop to reorder items on the list
+- See previosly added tasks after refresh
 
 ### Screenshot
 
@@ -38,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live URL: [View Live](https://mrutkowski99.github.io/drag-and-drop-todo-list/index.html)
 
 ### Built with
 
